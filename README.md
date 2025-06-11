@@ -64,7 +64,7 @@ sh scripts/test/colon_test.sh
 |[KITTI(Eigen)](https://github.com/sakura-yzh/PTF-EvoMDE_Open/releases/download/weight_files/kitti_best.pth) | 6.26M | 0.0621 | 0.2173 | 2.5566 | 0.0954 | 0.9578 | 0.9943 | 0.9988 |
 
 | Model | Mean L1-error  | Mean Relative L1-error  | Mean RMSE | a05 |
-| :--- | :---: | :---: | :---: |  :---: |  :---: | 
+| :--- | :---: | :---: |  :---: |  :---: | 
 |[Colon](https://github.com/sakura-yzh/PTF-EvoMDE_Open/releases/download/weight_files/colon_best.pth) | 0.1397 | 0.0543 | 0.2306 | 0.8919 |
 
 
